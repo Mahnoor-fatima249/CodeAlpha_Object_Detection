@@ -15,7 +15,7 @@ This project is part of my Artificial Intelligence internship at **CodeAlpha**. 
    git clone [https://github.com/YOUR_USERNAME/CodeAlpha_ObjectDetection.git](https://github.com/YOUR_USERNAME/CodeAlpha_ObjectDetection.git)
 
   2.Install the required dependencies:
-  ``bash
+  ```bash
   pip install -r requirements.txt
 
  3.How to Run
